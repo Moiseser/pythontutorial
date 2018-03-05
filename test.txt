@@ -1,1 +1,3 @@
-There is no treasure here or in the new file
+This is line 1
+this is line2
+This is line 3
