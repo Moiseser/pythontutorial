@@ -17,7 +17,7 @@ print poem
 print '_ _ _ _ _ _ _ _ _ _ _ _ '
 #set a series of numerical operations value to a variable
 five = 10 -2 + 3 -6
-we write out the value of previous variable
+#we write out the value of previous variable
 print 'This should be five %s' %five
 #create a function that uses values calculated in next newlines
 #return saves the values to those variables
